@@ -33,6 +33,8 @@ function App() {
   return (
       <div className="App">
         <NameTag name="NePP ;)" tag="서울시 동대문구 제기동" color="lightgreen" />
+        <NameTag name="NePP +" tag="피카피카피카츄" color="coral" />
+        <NameTag name="NePP ++" tag="바나나바바나나" color="I'm hungry" />
         {/* {sample_msg(num)}<br />
         {result}
         {tag}
